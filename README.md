@@ -6,6 +6,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seunghyuk2915" alt="seunghyuk2915" /></a> </p>
 
+### :purple_heart: Career
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2020. 3 ~ 2023. 2 | Department of Game Development | **Gyeonggi Game Meister High School** |
+
 - 🔭 I’m currently working on **GGM HighSchool**
 
 - 🌱 I’m currently learning **C, C++, C#, Unity.**
