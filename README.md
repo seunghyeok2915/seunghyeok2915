@@ -1,4 +1,4 @@
-![c++](https://raw.githubusercontent.com/rrrmaster/rrrmaster/master/c-animation.gif)
+<!--![c++](https://raw.githubusercontent.com/rrrmaster/rrrmaster/master/c-animation.gif)-->
 <h1 align="center">Hi 👋, I'm Seunghyeok Lee</h1>
 <h3 align="center">A passionate client developer from Korea</h3>
 
