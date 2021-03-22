@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Seunghyeok Lee</h1>
 <h3 align="center">A passionate client developer from Korea</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seunghyuk2915&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyuk2915" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seungheokk2915&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyuk2915" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seunghyuk2915" alt="seunghyuk2915" /></a> </p>
 
