@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **seunghyukking@gmail.com**
 
-- ⚡ Fun fact **I want to be a singer.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/seunghyeok2915" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="seunghyeok2915" height="30" width="40" /></a>
