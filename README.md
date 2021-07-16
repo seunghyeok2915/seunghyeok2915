@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungheokk2915&label=Profile%20views&color=0e75b6&style=flat" alt="seunghyeok2915" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seunghyeok2915" alt="seunghyeok2915" /></a> </p>
-
 ### :purple_heart: Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
