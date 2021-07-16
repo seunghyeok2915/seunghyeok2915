@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **GGM HighSchool**
 
-- 🌱 I’m currently learning **C, C++, C#, Unity.**
+- 🌱 I’m currently learning **C++, Unity.**
 
-- 💬 Ask me about **C, C++, C#, Unity.**
+- 💬 Ask me about **Unity.**
 
 - 📫 How to reach me **seunghyukking@gmail.com**
 
