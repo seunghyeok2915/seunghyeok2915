@@ -32,5 +32,5 @@
 <h3 align="left">Github Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seunghyeok2915&show_icons=true&locale=en" alt="seunghyeok2915" /></p>
 
-<input type="Button">
+<input type="date">
 
