@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **GGM HighSchool**
 
-- 🌱 I’m currently learning **C#, Unity.**
+- 🌱 I’m currently learning **C++, C#, Unity.**
 
 - 💬 Ask me about **Unity.**
 
