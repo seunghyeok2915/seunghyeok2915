@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C++, C#, Unity.**
 
-- 💬 Ask me about **Unity.**
+- 💬 Ask me about **Anything.**
 
 - 📫 How to reach me **seunghyeok.dev@gmail.com**
 
