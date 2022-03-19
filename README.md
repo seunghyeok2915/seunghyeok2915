@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=seunghyeok2915" alt="seunghyeok2915" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [GGM HighSchool](http://ggm.gondr.net/user/profile/115)
 
 - 🌱 I’m currently learning **C++,C#,Unity**
