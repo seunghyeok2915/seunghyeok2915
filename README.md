@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/승핵" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCsEzm65mFUbIfGwFTk1nHDA/videos" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCsEzm65mFUbIfGwFTk1nHDA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCsEzm65mFUbIfGwFTk1nHDA/videos" height="30" width="40" /></a>
 <a href="https://discord.gg/이승혁#3047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="이승혁#3047" height="30" width="40" /></a>
 </p>
 
