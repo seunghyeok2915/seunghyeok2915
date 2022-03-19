@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **seunghyeok.dev@gmail.com**
 
-<h3 align="left">Watch my Games:</h3>
+<h3 align="left">Watch my Games
 <p align="left">
 <a href="https://www.youtube.com/channel/UCsEzm65mFUbIfGwFTk1nHDA/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="이새로이#1450" height="30" width="40" /></a>
 </p>
