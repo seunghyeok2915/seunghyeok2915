@@ -19,7 +19,7 @@
 <h3 align="left">Watch my Games here
 <a href="https://www.youtube.com/channel/UCsEzm65mFUbIfGwFTk1nHDA/videos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="이새로이#1450" height="30" width="40" /></a>
 </p>
-
+https://impartial-fuschia-fde.notion.site/Portfolio-be426283e10b43fdaa32ed61d870ab79
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
