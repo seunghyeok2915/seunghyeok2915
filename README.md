@@ -6,7 +6,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board: Education** | 2020. 3 ~ 2023. 2 | Department of Game Development | **Gyeonggi Game Meister High School** |
-| **💻 Graduation Project** | 2021. 10 ~ Now | Client Programmer | **GGM High School and BSS Company** |
+| **💻 Graduation Project** | 2021. 10 ~ Now | Client Programmer | **GGM High Schoo** |
 
 - 🔭 I’m currently working on **GGM HighSchool**
 
