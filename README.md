@@ -26,3 +26,8 @@
 [![seunghyeok2915's github stats](https://github-readme-stats.vercel.app/api?username=seunghyeok2915&show_icons=true&theme=dracula)](https://github.com/seunghyeok2915)
 
 [![opgc](https://api.opgc.me/githubs/users/seunghyeok2915/tag/?theme=dracula)](https://opgc.me/#/users/seunghyeok2915)
+
+[![](https://raw.githubusercontent.com/kimsama/seunghyeok2915/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/seunghyeok2915/)
+[![](https://raw.githubusercontent.com/kimsama/seunghyeok2915/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/seunghyeok2915/)
+[![](https://raw.githubusercontent.com/kimsama/seunghyeok2915/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/seunghyeok2915/)
+[![](https://raw.githubusercontent.com/kimsama/seunghyeok2915/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/seunghyeok2915/)
