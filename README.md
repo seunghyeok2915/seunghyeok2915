@@ -17,7 +17,8 @@
 
 <h2 align="left">🛠️ 툴&스킬</h2>
 
-![image](https://user-images.githubusercontent.com/64355834/170407125-4fe0abd0-991b-4ca7-b77f-e4290d822096.png)
+![image](https://user-images.githubusercontent.com/64355834/170810714-521997c4-7b17-468c-ab1a-2b19257c4ef6.png)
+
 
 <h2 align="left">💻 깃허브 정보</h2>
 
