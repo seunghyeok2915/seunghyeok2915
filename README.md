@@ -1,4 +1,4 @@
-<h1 align="center">"시도하지 않으면 아무것도 할 수 없다"</h1>
+<h1 align="center">"새로운 가능성을 만들어내는 개발자"</h1>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyeok2915)](https://github.com/seunghyeok2915)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seunghyeok.dev@gmail.com)](mailto:seunghyeok.dev@gmail.com)
