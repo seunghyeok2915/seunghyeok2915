@@ -1,5 +1,3 @@
-<h1 align="center">"새로운 가능성을 만들어내는 개발자"</h1>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseunghyeok2915)](https://github.com/seunghyeok2915)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seunghyeok.dev@gmail.com)](mailto:seunghyeok.dev@gmail.com)
 [![유튜브](https://img.shields.io/badge/Youtube-red?logo=youtube)](https://www.youtube.com/channel/UCsEzm65mFUbIfGwFTk1nHDA)
