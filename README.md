@@ -25,5 +25,3 @@
 
 [![seunghyeok2915's github stats](https://github-readme-stats.vercel.app/api?username=seunghyeok2915&show_icons=true&theme=dracula)](https://github.com/seunghyeok2915)
 
-<a href="https://opgc.me/#/users/seunghyeok2915" target="_blank"><img src="https://api.opgc.me/githubs/users/seunghyeok2915/tag/?theme=basic" /></a>
-
