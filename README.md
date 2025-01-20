@@ -15,13 +15,3 @@
 | **💻 졸업 작품** | 2021. 10 ~ 2022.10 | 클라이언트 프로그래머 | **경기게임마이스터고** |
 | **회사** | 2022. 10 ~ 현재 | 클라이언트 프로그래머 | **HIGHSCORE GAMES** |
 
-<h2 align="left">🛠️ 툴&스킬</h2>
-
-![image](https://user-images.githubusercontent.com/64355834/170931145-338ca58c-0b64-4376-9d95-585439add67d.png)
-
-<h2 align="left">💻 깃허브 정보</h2>
-
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=seunghyeok2915&theme=calm)](https://github.com/seunghyeok2915)
-
-[![seunghyeok2915's github stats](https://github-readme-stats.vercel.app/api?username=seunghyeok2915&show_icons=true&theme=dracula)](https://github.com/seunghyeok2915)
-
