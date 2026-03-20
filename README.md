@@ -1,11 +1,13 @@
-# Seunghyeok Lee
+# Hi, I'm Seunghyeok
 
-I am a Unity game developer with a strong interest in AI, open source, and vibe coding.
+Unity game developer | AI-curious builder | Open source and vibe coding enthusiast
 
-## About
+> I work on Unity games professionally and spend a lot of time exploring AI workflows, developer tools, and small open source ideas.
 
-- Building gameplay systems and tools with Unity and C#
-- Exploring AI-powered workflows, developer tooling, and practical product ideas
+## Current Focus
+
+- Building gameplay systems and production tools with Unity and C#
+- Exploring AI-assisted development, agent workflows, and practical automation
 - Sharing experiments, prototypes, and open source projects
 
 ## Contact
