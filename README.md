@@ -1,12 +1,12 @@
 # Seunghyeok Lee
 
-I build games, tools, and product-focused software.
+I am a Unity game developer with a strong interest in AI, open source, and vibe coding.
 
 ## About
 
-- Working mostly with Unity, C#, JavaScript, and TypeScript
-- Interested in gameplay systems, developer tools, and AI-assisted workflows
-- Using this space for experiments, prototypes, and practical projects
+- Building gameplay systems and tools with Unity and C#
+- Exploring AI-powered workflows, developer tooling, and practical product ideas
+- Sharing experiments, prototypes, and open source projects
 
 ## Contact
 
