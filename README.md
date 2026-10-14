@@ -1,25 +1,6 @@
-<div align="center">
+## Projects & experiments
 
-# nullbyte
+Building games, developer tools, and small experiments.
 
-`Building quietly. Shipping after dark.`
-
-</div>
-
-```text
-$ whoami
-nullbyte
-
-$ cat /dev/interests
-games / tools / automation
-
-$ cat /dev/stack
-C# / Unity / TypeScript / JavaScript
-
-$ status
-building...
-```
-
-<div align="center">
-<sub>Less noise. More code.</sub>
-</div>
+- **Game development:** Unity, C#
+- **Tools & automation:** TypeScript, JavaScript
